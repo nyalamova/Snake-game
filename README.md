@@ -1,2 +1,2 @@
-# Sname-game
+# Snake-game
 Python game
